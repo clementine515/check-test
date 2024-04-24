@@ -1,0 +1,76 @@
+.header-title {
+    color: #8B7969;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.login {
+    background-color: #F1ECE6;
+    padding: 30px 0;
+}
+
+.login-title {
+    color: #8B7969;
+    font-size: 35px;
+    font-weight: lighter;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.login-form {
+    background-color: white;
+    width: 40%;
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px 100px;
+}
+
+.login-form__item {
+    text-align: left;
+    display: block;
+}
+
+.form-item-input {
+    height: 50px;
+    border: 1px solid #f4f4f4;
+    background-color: #f4f4f4;
+    width: 100%;
+    display: block;
+    color: #8B7969;
+}
+
+.item-label {
+    font-weight: lighter;
+    color: #8B7969;
+    font-size: 20px;
+}
+
+.login-form__btn {
+    margin: 40px auto;
+}
+
+.login-form__btn--text {
+    background-color: #8B7969;
+    border: none;
+    color: white;
+    padding: 5px 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.login-form__register-btn {
+    background-color: #f4f4f4;
+    color: #DDCEC0;
+    border: 1px solid #DDCEC0;
+    float: right;
+    cursor: pointer;
+    width: 5%;
+}
